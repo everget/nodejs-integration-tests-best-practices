@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-sqs": "^3.245.0",
+    "@aws-sdk/client-sqs": "^3.540.0",
     "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^9.2.1",
     "@nestjs/platform-express": "^9.2.1",
@@ -27,15 +27,15 @@
     "@types/jsonwebtoken": "^9.0.1",
     "@types/nock": "^11.1.0",
     "amqplib": "^0.10.3",
-    "axios": "^1.2.2",
+    "axios": "^1.6.0",
     "axios-retry": "^3.3.1",
     "body-parser": "^1.20.1",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "jsonwebtoken": "^9.0.0",
     "pg": "^8.8.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0",
-    "sequelize": "^6.28.0"
+    "sequelize": "^6.29.0"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
